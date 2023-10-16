@@ -1,21 +1,20 @@
-## Name
-Granulometrie Application
+## Nom
+Application de Granulométrie
+
 ## Description
-This application can process and analyze Image thats contains grain
+Cette application peut traiter et analyser des images contenant des grains.
 
 ## Installation
-run the source code with Eclipse, .Jar will come 
+Exécutez le code source avec Eclipse, un fichier .Jar sera généré:
 
-run as configuration with java 1.8 and : 
+--module-path "javafx-sdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml
 
---module-path  "javafx-sdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml
+## Auteurs et remerciements
+Merci à Noé, Hreshvik, Quentin et Joey pour leur contribution à notre projet.
 
-## Authors and acknowledgment
-Thanks to Alex,Hreshvik,Quentin and joey for bring their contribution to our project
+## Licence
+Open source
 
-## License
-open source
-
-## Project status
-Push often
+## État du projet
+Mises à jour fréquentes
 
